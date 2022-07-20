@@ -1,0 +1,48 @@
+body {
+  background-color: #495c83;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.cabecera {
+  background-image: url(https://www.caracteristicasdel.com/wp-content/uploads/2020/03/basquetbol.jpg);
+}
+
+div {
+  margin: 25px;
+  padding: 5px;
+}
+
+.queEs {
+  background-color: #7a86b6;
+  border-style: solid;
+  border-width: medium;
+  border-color: #a8a4ce;
+}
+
+.cancha {
+  background-color: #7a86b6;
+  border-style: dotted;
+  border-width: 5px;
+  border-color: #a8a4ce;
+  border-radius: 5px;
+}
+
+h1 {
+  text-align: center;
+  margin: 0;
+  color: #fff;
+}
+
+p {
+  text-align: justify;
+  margin: 10px;
+}
+
+img {
+  display: block;
+  margin-top: 15px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 15px;
+  width: 90%;
+}
